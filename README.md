@@ -94,4 +94,7 @@ pip install numpy pandas matplotlib scikit-learn lightgbm xgboost seaborn plotly
 ### 4. Run the notebook
   * open VS code and start the kernel
   * now run the notebook.
+---
+### Visit the URL for complete project description
+[Link text] (https://www.kaggle.com/competitions/Cinema_Audience_Forecasting_challenge)
 
